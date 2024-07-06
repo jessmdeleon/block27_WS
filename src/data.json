@@ -1,0 +1,12 @@
+{
+    "sales": "431,225",
+    "clients": "32,441",
+    "traffic": "1,325,134",
+    "revenue": "$59,342.32",
+    "transactions": [
+      { "id": "01e4dsa", "name": "johndoe", "date": "2021-09-01", "amount": "$43.95" },
+      { "id": "0315dsaa", "name": "jackdower", "date": "2022-04-01", "amount": "$133.45" },
+      { "id": "01e4dsa", "name": "aberjohnny", "date": "2021-09-01", "amount": "$43.95" }
+    ]
+  }
+  
